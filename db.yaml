@@ -1,0 +1,4 @@
+host: "YOUR_HOST"
+user: "YOUR_USER"
+password: "YOUR_PASSWORD"
+db: "mrts_sales"
